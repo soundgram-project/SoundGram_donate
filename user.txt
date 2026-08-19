@@ -14,6 +14,7 @@
 732425498: Supporter
 273678913: VelesCult
 8604780205: Supporter
--1003811498929: Официальный канал SoundGram
+3811498929: Официальный канал SoundGram
 5140494400: Supporter
 269104474: Supporter
+309257396: Supporter
